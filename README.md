@@ -10,5 +10,7 @@ Link : https://myaccount.google.com/security
 
 # Once done you can either download the installer or use the code to run the application
 
+If you want a better user experience try the installer
+
 # Screen shot of the working application
 
