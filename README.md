@@ -10,7 +10,11 @@ Link : https://myaccount.google.com/security
 
 # Once done you can either download the installer or use the code to run the application
 
-If you want a better user experience try the installer
+## If you want a better user experience try the installer
 
 # Screen shot of the working application
+
+![output](https://user-images.githubusercontent.com/39863022/58754254-e07c4e00-84e9-11e9-9946-6bf06e338317.png)
+
+# Status of your message
 
