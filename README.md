@@ -1,4 +1,4 @@
-## SIMPLE-MAIL
+## SIMPLE MAIL
 This is a simple python application for sending MAIL
 # Note : Before running the application 
 Make sure you have enabled allow Less Secure Apps from your google account
